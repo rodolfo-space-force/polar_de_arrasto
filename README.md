@@ -3,7 +3,7 @@ Método Analítico para o Traçado da Polar de Arrasto de Aeronaves Leves Subsô
 
 Este projeto tem como finalidade implementar, em Python, um modelo analítico para a determinação da curva polar de arrasto de aeronaves leves operando em regime subsônico para competições como a SAE-AeroDesign.
 
-![Texto alternativo da imagem](polar.jpg)
+![Texto alternativo da imagem](polar.png)
 
 A ferramenta computacional desenvolvida possibilita a geração direta da curva polar, a partir de parâmetros geométricos e aerodinâmicos da aeronave, oferecendo ao projetista uma visualização clara da relação entre sustentação e arrasto. 
 
