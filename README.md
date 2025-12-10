@@ -12,5 +12,5 @@ Além de facilitar as iterações e refinamentos necessários durante as fases i
 O código pode ser facilmente adaptado para diferentes configurações de aeronaves leves.
 
 exemplo:
-# input 0.045 p/ cd0 
-# 0.05194 p/ k
+- input 0.045 p/ cd0 
+- 0.05194 p/ k
