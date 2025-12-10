@@ -16,3 +16,10 @@ O código pode ser facilmente adaptado para diferentes configurações de aerona
 exemplo:
 - input 0.045 p/ cd0 
 - 0.05194 p/ k
+
+
+Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
