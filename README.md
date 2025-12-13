@@ -1,6 +1,8 @@
 # polar_de_arrasto
 Método Analítico para o Traçado da Polar de Arrasto de Aeronaves Leves Subsônicas
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+
 Este projeto tem como finalidade implementar, em Python, um modelo analítico para a determinação da curva polar de arrasto de aeronaves leves operando em regime subsônico para competições como a SAE-AeroDesign.
 
 ![Texto alternativo da imagem](polar.png)
